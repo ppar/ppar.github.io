@@ -1,14 +1,10 @@
-# github/ppar
-
 - https://github.com/ppar
 - https://www.linkedin.com/in/ppar/
-
-- stamp: 4
 
 ### Own projects			
 | URL                                                                       | Languages/tech | Description |
 | ------------------------------------------------------------------------- | -------------- | ----------- |
-| [ppar/throtcat](https://github.com/ppar/throtcat)                         | Golang         | "Throttled cat" for managing massive mysql imports onto a live DB |
+| <nobr>[ppar/throtcat](https://github.com/ppar/throtcat)<nobr>                         | Golang         | "Throttled cat" for managing massive mysql imports onto a live DB |
 | [ppar/tf-ebs-attach](https://github.com/ppar/tf-ebs-attach)               | Golang         | Utility for importing AWS EBS resources into  a Terraform state file |
 | [ppar/trafi-opendata](https://github.com/ppar/trafi-opendata/)           | NodeJS, Python, MongoDB, MySQL, HTML/CSS/React | **OLD** Prototype backend and web UI for searching vehicle registration data from the Finnish traffic authorities. Docs at [ppar.github.io/trafi-opendata](https://ppar.github.io/trafi-opendata/) |
 

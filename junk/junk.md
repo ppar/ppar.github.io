@@ -52,3 +52,7 @@ https://martinpeck.com/jekyll/blog/containers/2019/02/02/build-and-deploy-jekyll
 ```
 
 =>  ./_site
+
+			
+Full list: https://github.com/pulls?q=is%3Apr+author%3Appar+is%3Apublic+is%3Amerged
+

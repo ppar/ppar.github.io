@@ -18,5 +18,3 @@
 | [trivago/gollum/pull/149](https://github.com/trivago/gollum/pull/149)     | Golang         | Refactors Gollum to use the Logrus logging framework                                    | 
 | [trivago/chapi/pull/80](https://github.com/trivago/chapi/pull/80)         | PHP            | Improvements to argument parsing                                                        | 
 | [hashicorp/vagrant/pull/8767](https://github.com/hashicorp/vagrant/pull/8767) | Ruby       | Bugfix in Vagrant's Saltstack provisioner to prevent redundant logging  | 
-			
-Full list: https://github.com/pulls?q=is%3Apr+author%3Appar+is%3Apublic+is%3Amerged
